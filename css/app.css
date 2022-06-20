@@ -1,0 +1,16 @@
+h3{
+    padding:20px;
+    text-align: center;
+}
+.panel{
+    height:300px;
+}
+form label{
+    color:#000;
+}
+#ajax_msg{
+    display:none;
+}
+#task-list{
+    cursor: pointer;
+}
